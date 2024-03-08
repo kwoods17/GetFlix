@@ -1,4 +1,4 @@
-## Getflix by Kenya
+# Getflix by Kenya
 
 A sleek Netflix-inspired streaming platform built using the power of React, Vite, HTML, and CSS.
 
@@ -16,4 +16,4 @@ Features
 
 * **Detailed Content Pages: Dedicated pages for individual movies/shows with more information (synopsis, cast, trailers, etc.)**
 
-## License - none
+## License - [MIT](https://choosealicense.com/licenses/mit/)
