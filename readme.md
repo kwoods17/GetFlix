@@ -2,7 +2,7 @@
 
 A sleek Netflix-inspired streaming platform built using the power of React, Vite, HTML, and CSS.
 
-##Figma Wireframe
+##Figma Wireframe : https://www.figma.com/file/4gCKSkFw0Mq9gRfyaIc8An/Untitled?type=design&node-id=1%3A2&mode=design&t=66YNK8X6iJafQrUu-1
 
 Features
 ##MVP 
