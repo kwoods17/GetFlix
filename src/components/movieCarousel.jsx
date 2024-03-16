@@ -7,7 +7,7 @@ import Slider from 'react-slick'
 const movies = [
     { title: "Movie 1", image: "movie1_poster.jpg" },
     { title: "Movie 2", image: "movie2_poster.jpg" },
-    // Add more movie objects 
+   
 ]
 function MovieCarousel() {
     const settings = {

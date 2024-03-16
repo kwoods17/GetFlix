@@ -14,7 +14,8 @@ function Navigation() {
 }
 const StyledNav = styled.nav`
 background-color: #222;  /* Dark background */
-    padding: 10px 0;         /* Top/bottom padding */
+    padding: 10px 0px ;         /* Top/bottom padding */
+    margin: 0;
  `
 const StyledUl = styled.ul`
      list-style-type: none;

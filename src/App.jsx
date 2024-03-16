@@ -1,14 +1,13 @@
-import { useState, React } from 'react'
-import Header from '/src/components/header'
-import Navigation from '/src/components/navigation'
-import SearchBar from '/src/components/searchBar'
-import MovieCard from './components/movieCard'
-import Hero from './components/hero'
-import MovieCarousel from './components/movieCarousel'
+import { useState } from 'react'
+import Header from '/src/components/Header'
+import MovieCard from './components/MovieCard'
+import MovieCarousel from './components/MovieCarousel'
 
 function App() {
   const [count, setCount] = useState(0)
+  const fetchMoviePoster = async (query) => {
 
+  }
   return (
     <>
       <div>

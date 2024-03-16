@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-import Navigation from './navigation'; 
-import SearchBar from './searchBar'
+import Navigation from './Navigation'; 
+import SearchBar from './SearchBar'
 
 const StyledHeader = styled.header`
     background-color: #141414; 
@@ -11,6 +11,7 @@ const StyledHeader = styled.header`
     width: 100%;     /* Make header span full width */
     height: 5%;
     top: 0;          /* Stick to the top */
+    
     h1 {
       font-family: 'sans-serif';  /*  choose different font later */
       font-size: 40px;            /* Adjust size as needed */ 

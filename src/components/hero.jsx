@@ -1,15 +1,16 @@
 import React from 'react';
-import styled from 'styled-components';
+import styled from 'styled-components'
 
 const StyledHero = styled.section`
   #hero-container {
-    background-image: url('/images/Heroimg.png');  
+    // background-image: url('images/Heroimg.png');  
     background-color: red; 
     height: 30vh; 
      width: 100vw;
   }`
 
 function Hero() {
+  <div> <img src="images/Heroimg.png" alt="" /></div>
     return (
         <StyledHero id="hero-container">
             {/* Content for the hero section will go here later */}
